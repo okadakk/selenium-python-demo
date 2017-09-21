@@ -1,0 +1,6 @@
+csv/
+.DS_Store
+.git
+.idea/
+__pycache__/
+inquire_test.py
