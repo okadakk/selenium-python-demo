@@ -5,7 +5,7 @@ get==0.0.21
 idna==2.6
 post==0.0.13
 public==0.0.38
-py==1.5.2
+py==1.10.0
 query-string==0.0.12
 request==0.0.13
 requests==2.18.4
